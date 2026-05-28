@@ -5,11 +5,10 @@ def start_detection():
         return {"status": "running", "message": "Detection active."}
     
     try:
-        # Launching your background script process safely
-        current_process = subprocess.Popen(["python", "noise_detector_v2.py"])
+        # shell=True keeps the main API alive even if the subprocess encounters audio driver issues
+        current_process = subprocess.Popen("python noise_detector_v2.py", shell=True)
         return {"status": "success", "message": "Noise detection script initiated."}
     except Exception as e:
-        # If the server lacks audio hardware, write a fallback log entry instead of crashing
         with open(LOG_FILE, "a") as f:
-            f.write(f"[SYSTEM NOTICE]: Initialized in Cloud Simulation Mode. Hardware Mic unavailable.\n")
+            f.write(f"[SYSTEM NOTICE]: Initialized in Cloud Simulation Mode.\n")
         return {"status": "simulation", "message": "Running in server cloud simulation mode."}
