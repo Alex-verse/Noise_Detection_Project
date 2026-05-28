@@ -1,0 +1,290 @@
+Noise detected at 2025-11-03 12:46:09 | RMS: 0.000541
+Noise detected at 2025-11-03 12:46:13 | RMS: 0.000188
+Noise detected at 2025-11-03 12:46:16 | RMS: 0.007923
+Noise detected at 2025-11-03 12:46:17 | RMS: 0.007239
+Noise detected at 2025-11-03 12:46:50 | RMS: 0.000346
+Noise detected at 2025-11-03 12:46:51 | RMS: 0.001525
+Noise detected at 2025-11-03 12:46:52 | RMS: 0.000202
+Noise detected at 2025-11-03 13:13:14 | RMS: 0.007297
+Noise detected at 2025-11-03 13:13:16 | RMS: 0.006163
+Noise detected at 2025-11-03 13:13:18 | RMS: 0.005652
+Noise detected at 2025-11-03 13:13:19 | RMS: 0.003852
+Noise detected at 2025-11-03 13:13:20 | RMS: 0.004558
+2025-11-03 13:17:02 | Noise detected | RMS: 0.003129
+2025-11-03 13:17:03 | Noise detected | RMS: 0.002697
+2025-11-03 13:17:04 | Noise detected | RMS: 0.002245
+2025-11-03 13:17:05 | Noise detected | RMS: 0.001116
+2025-11-03 13:17:06 | Noise detected | RMS: 0.003728
+2025-11-03 13:17:07 | Noise detected | RMS: 0.003268
+2025-11-03 13:17:13 | Noise detected | RMS: 0.005425
+[2025-11-03 13:59:56.103467] Noise detected | RMS: 0.004536
+[2025-11-03 13:59:56.612859] Noise detected | RMS: 0.001923
+[2025-11-03 13:59:59.110861] Noise detected | RMS: 0.008283
+[2025-11-03 13:59:59.611378] Noise detected | RMS: 0.006026
+[2025-11-03 14:00:02.106890] Noise detected | RMS: 0.009667
+[2025-11-03 14:00:02.613078] Noise detected | RMS: 0.004572
+[2025-11-03 14:00:05.111320] Noise detected | RMS: 0.005647
+[2025-11-03 14:00:05.612383] Noise detected | RMS: 0.001273
+[2025-11-03 14:04:08.903980] Noise detected | RMS: 0.005660
+[2025-11-03 14:04:10.407452] Noise detected | RMS: 0.004120
+[2025-11-03 14:04:10.903453] Noise detected | RMS: 0.001073
+[2025-11-03 14:04:11.903295] Noise detected | RMS: 0.003414
+[2025-11-03 14:04:12.403391] Noise detected | RMS: 0.001840
+[2025-11-07 16:55:10.516264] Noise detected | RMS: 0.004673
+[2025-11-07 16:55:15.014885] Noise detected | RMS: 0.015309
+[2025-11-07 16:55:15.511358] Noise detected | RMS: 0.002700
+[2025-11-07 16:55:16.515100] Noise detected | RMS: 0.008375
+[2025-11-07 16:55:17.018035] Noise detected | RMS: 0.010158
+[2025-11-07 16:55:20.523774] Noise detected | RMS: 0.005061
+[2025-11-07 16:55:21.025375] Noise detected | RMS: 0.005093
+[2025-11-07 16:55:23.018201] Noise detected | RMS: 0.004627
+[2025-11-07 16:55:23.511480] Noise detected | RMS: 0.002889
+2025-11-09 22:57:46 | Noise detected | RMS: 0.014947
+2025-11-09 22:57:48 | Noise detected | RMS: 0.011078
+2025-11-09 22:57:49 | Noise detected | RMS: 0.001781
+2025-11-10 10:23:52 | Noise detected | RMS: 0.001115
+2025-11-10 10:23:53 | Noise detected | RMS: 0.002175
+2025-11-10 10:23:54 | Noise detected | RMS: 0.001885
+2025-11-10 10:23:55 | Noise detected | RMS: 0.003218
+2025-11-10 10:23:56 | Noise detected | RMS: 0.009347
+2025-11-10 10:23:57 | Noise detected | RMS: 0.005778
+2025-11-10 10:23:58 | Noise detected | RMS: 0.004922
+2025-11-10 10:23:59 | Noise detected | RMS: 0.005906
+[2025-11-16 15:42:48.332270] Noise detected | RMS: 0.001151
+[2025-11-16 15:42:48.836508] Noise detected | RMS: 0.001894
+[2025-11-16 15:42:49.325182] Noise detected | RMS: 0.001260
+[2025-11-16 15:42:50.329239] Noise detected | RMS: 0.001268
+[2025-11-16 15:42:50.830234] Noise detected | RMS: 0.001028
+[2025-11-16 15:42:51.825119] Noise detected | RMS: 0.001011
+[2025-11-16 15:42:52.335307] Noise detected | RMS: 0.001160
+[2025-11-16 15:42:52.829279] Noise detected | RMS: 0.003845
+[2025-11-16 15:42:53.326622] Noise detected | RMS: 0.005778
+[2025-11-16 15:42:54.329464] Noise detected | RMS: 0.001568
+[2025-11-16 15:42:54.829384] Noise detected | RMS: 0.001592
+[2025-11-16 15:43:10.828988] Noise detected | RMS: 0.001084
+[2025-11-16 15:43:11.324478] Noise detected | RMS: 0.001216
+[2025-11-16 15:43:11.824066] Noise detected | RMS: 0.001304
+[2025-11-16 15:43:12.328745] Noise detected | RMS: 0.001370
+[2025-11-16 15:43:14.328663] Noise detected | RMS: 0.001334
+[2025-11-16 15:43:14.829074] Noise detected | RMS: 0.001527
+[2025-11-16 15:43:15.322964] Noise detected | RMS: 0.001443
+[2025-11-16 15:43:15.823779] Noise detected | RMS: 0.001434
+[2025-11-16 15:43:16.327876] Noise detected | RMS: 0.001358
+[2025-11-16 15:43:17.323675] Noise detected | RMS: 0.001096
+[2025-11-16 15:43:17.822151] Noise detected | RMS: 0.001067
+[2025-11-16 15:43:19.323471] Noise detected | RMS: 0.001028
+[2025-11-16 15:43:21.323695] Noise detected | RMS: 0.001159
+[2025-11-16 15:43:23.323358] Noise detected | RMS: 0.001032
+[2025-11-16 15:43:23.818700] Noise detected | RMS: 0.001042
+[2025-11-16 15:43:25.822242] Noise detected | RMS: 0.001443
+[2025-11-16 15:43:26.328573] Noise detected | RMS: 0.001199
+[2025-11-16 15:43:27.823284] Noise detected | RMS: 0.001439
+[2025-11-16 15:43:28.327893] Noise detected | RMS: 0.001337
+[2025-11-16 15:43:28.828432] Noise detected | RMS: 0.001057
+[2025-11-16 15:43:29.823166] Noise detected | RMS: 0.001305
+[2025-11-16 15:43:30.329779] Noise detected | RMS: 0.001647
+[2025-11-16 15:43:30.827943] Noise detected | RMS: 0.001879
+[2025-11-16 15:43:31.321724] Noise detected | RMS: 0.002595
+[2025-11-16 15:43:31.822297] Noise detected | RMS: 0.001959
+[2025-11-16 15:44:22.420812] Noise detected | RMS: 0.002689
+[2025-11-16 15:44:22.921773] Noise detected | RMS: 0.001788
+[2025-11-16 15:44:25.921208] Noise detected | RMS: 0.006595
+[2025-11-16 15:44:31.411855] Noise detected | RMS: 0.002509
+[2025-11-16 15:44:31.922427] Noise detected | RMS: 0.003124
+[2025-11-16 15:44:32.419456] Noise detected | RMS: 0.001164
+[2025-11-16 15:44:36.419203] Noise detected | RMS: 0.004680
+[2025-11-16 15:44:36.920515] Noise detected | RMS: 0.003187
+[2025-11-16 15:44:42.418565] Noise detected | RMS: 0.003544
+2025-11-16 15:52:29 | Noise detected | RMS: 0.029828
+2025-11-16 15:52:31 | Noise detected | RMS: 0.030505
+2025-11-16 15:52:50 | Noise detected | RMS: 0.023913
+2025-11-16 15:52:50 | Noise detected | RMS: 0.034337
+2025-11-16 15:52:50 | Noise detected | RMS: 0.035665
+2025-11-16 15:52:53 | Noise detected | RMS: 0.026975
+2025-11-16 15:52:58 | Noise detected | RMS: 0.024693
+2025-11-16 15:52:58 | Noise detected | RMS: 0.030913
+2025-11-16 15:52:59 | Noise detected | RMS: 0.026243
+2025-11-16 15:52:59 | Noise detected | RMS: 0.028604
+2025-11-16 15:52:59 | Noise detected | RMS: 0.022617
+2025-11-16 15:52:59 | Noise detected | RMS: 0.025607
+2025-11-16 15:52:59 | Noise detected | RMS: 0.022991
+2025-11-16 15:52:59 | Noise detected | RMS: 0.024688
+2025-11-16 15:53:06 | Noise detected | RMS: 0.029784
+2025-11-16 15:58:42 | Noise detected | RMS: 0.027610
+2025-11-16 15:58:43 | Noise detected | RMS: 0.025238
+2025-11-16 15:58:51 | Noise detected | RMS: 0.034467
+2025-11-16 15:58:51 | Noise detected | RMS: 0.030515
+2025-11-16 15:58:51 | Noise detected | RMS: 0.024884
+2025-11-16 15:58:51 | Noise detected | RMS: 0.025351
+2025-11-16 15:58:51 | Noise detected | RMS: 0.020550
+2025-11-16 15:58:52 | Noise detected | RMS: 0.020892
+2025-11-16 15:58:54 | Noise detected | RMS: 0.023750
+2025-11-16 15:58:54 | Noise detected | RMS: 0.032656
+2025-11-16 15:58:55 | Noise detected | RMS: 0.026309
+2025-11-16 15:58:56 | Noise detected | RMS: 0.028777
+2025-11-16 15:58:56 | Noise detected | RMS: 0.020109
+2025-11-17 10:13:25 | Noise detected | RMS: 0.020410
+2025-11-17 10:13:27 | Noise detected | RMS: 0.023895
+2025-11-17 10:13:27 | Noise detected | RMS: 0.022643
+2025-11-17 10:13:52 | Noise detected | RMS: 0.022660
+2026-05-28 14:20:24 | Noise detected | RMS: 0.031143
+2026-05-28 14:20:24 | Noise detected | RMS: 0.276913
+2026-05-28 14:20:25 | Noise detected | RMS: 0.437313
+2026-05-28 14:20:25 | Noise detected | RMS: 0.061600
+2026-05-28 14:20:25 | Noise detected | RMS: 0.041532
+2026-05-28 14:20:26 | Noise detected | RMS: 0.161962
+2026-05-28 14:20:26 | Noise detected | RMS: 0.071439
+2026-05-28 14:20:26 | Noise detected | RMS: 0.045771
+2026-05-28 14:20:26 | Noise detected | RMS: 0.092457
+2026-05-28 14:20:26 | Noise detected | RMS: 0.075309
+2026-05-28 14:20:26 | Noise detected | RMS: 0.038356
+2026-05-28 14:20:26 | Noise detected | RMS: 0.024512
+2026-05-28 14:20:31 | Noise detected | RMS: 0.247768
+2026-05-28 14:20:31 | Noise detected | RMS: 0.172931
+2026-05-28 14:20:31 | Noise detected | RMS: 0.121412
+2026-05-28 14:20:31 | Noise detected | RMS: 0.282686
+2026-05-28 14:20:32 | Noise detected | RMS: 0.336183
+2026-05-28 14:20:32 | Noise detected | RMS: 0.337547
+2026-05-28 14:20:32 | Noise detected | RMS: 0.054347
+2026-05-28 14:20:33 | Noise detected | RMS: 0.045435
+2026-05-28 14:20:33 | Noise detected | RMS: 0.132361
+2026-05-28 14:20:33 | Noise detected | RMS: 0.225468
+2026-05-28 14:20:33 | Noise detected | RMS: 0.305984
+2026-05-28 14:20:33 | Noise detected | RMS: 0.116336
+2026-05-28 14:20:33 | Noise detected | RMS: 0.142507
+2026-05-28 14:20:33 | Noise detected | RMS: 0.113237
+2026-05-28 14:20:34 | Noise detected | RMS: 0.226989
+2026-05-28 14:20:34 | Noise detected | RMS: 0.142327
+2026-05-28 14:20:34 | Noise detected | RMS: 0.207661
+2026-05-28 14:20:34 | Noise detected | RMS: 0.165009
+2026-05-28 14:20:34 | Noise detected | RMS: 0.112940
+2026-05-28 14:20:34 | Noise detected | RMS: 0.096456
+2026-05-28 14:20:34 | Noise detected | RMS: 0.132847
+2026-05-28 14:20:34 | Noise detected | RMS: 0.112745
+2026-05-28 14:20:34 | Noise detected | RMS: 0.038313
+2026-05-28 14:20:34 | Noise detected | RMS: 0.020252
+2026-05-28 14:20:35 | Noise detected | RMS: 0.051952
+2026-05-28 14:20:35 | Noise detected | RMS: 0.025877
+2026-05-28 14:20:35 | Noise detected | RMS: 0.105140
+2026-05-28 14:20:35 | Noise detected | RMS: 0.055227
+2026-05-28 14:20:36 | Noise detected | RMS: 0.092393
+2026-05-28 14:20:36 | Noise detected | RMS: 0.085421
+2026-05-28 14:20:36 | Noise detected | RMS: 0.034749
+2026-05-28 14:20:36 | Noise detected | RMS: 0.024758
+2026-05-28 14:20:36 | Noise detected | RMS: 0.053114
+2026-05-28 14:20:36 | Noise detected | RMS: 0.077673
+2026-05-28 14:20:36 | Noise detected | RMS: 0.117736
+2026-05-28 14:20:36 | Noise detected | RMS: 0.147656
+2026-05-28 14:20:36 | Noise detected | RMS: 0.040537
+2026-05-28 14:20:36 | Noise detected | RMS: 0.072752
+2026-05-28 14:20:37 | Noise detected | RMS: 0.112714
+2026-05-28 14:20:37 | Noise detected | RMS: 0.080836
+2026-05-28 14:20:37 | Noise detected | RMS: 0.046210
+2026-05-28 14:20:37 | Noise detected | RMS: 0.107849
+2026-05-28 14:20:37 | Noise detected | RMS: 0.106102
+2026-05-28 14:20:37 | Noise detected | RMS: 0.169361
+2026-05-28 14:20:37 | Noise detected | RMS: 0.141666
+2026-05-28 14:20:37 | Noise detected | RMS: 0.061248
+2026-05-28 14:20:38 | Noise detected | RMS: 0.142805
+2026-05-28 14:20:38 | Noise detected | RMS: 0.131259
+2026-05-28 14:20:38 | Noise detected | RMS: 0.044864
+2026-05-28 14:20:38 | Noise detected | RMS: 0.166275
+2026-05-28 14:20:39 | Noise detected | RMS: 0.080845
+2026-05-28 14:20:39 | Noise detected | RMS: 0.056403
+2026-05-28 14:20:39 | Noise detected | RMS: 0.062725
+2026-05-28 14:20:39 | Noise detected | RMS: 0.048341
+2026-05-28 14:20:39 | Noise detected | RMS: 0.086957
+2026-05-28 14:20:39 | Noise detected | RMS: 0.025568
+2026-05-28 14:20:39 | Noise detected | RMS: 0.054173
+2026-05-28 14:20:39 | Noise detected | RMS: 0.045848
+2026-05-28 14:20:39 | Noise detected | RMS: 0.026811
+2026-05-28 14:20:40 | Noise detected | RMS: 0.029934
+2026-05-28 14:20:40 | Noise detected | RMS: 0.110958
+2026-05-28 14:20:40 | Noise detected | RMS: 0.076783
+2026-05-28 14:20:40 | Noise detected | RMS: 0.211465
+2026-05-28 14:20:40 | Noise detected | RMS: 0.176475
+2026-05-28 14:20:40 | Noise detected | RMS: 0.107333
+2026-05-28 14:20:40 | Noise detected | RMS: 0.069179
+2026-05-28 14:20:41 | Noise detected | RMS: 0.123120
+2026-05-28 14:20:41 | Noise detected | RMS: 0.066388
+2026-05-28 14:20:41 | Noise detected | RMS: 0.047813
+2026-05-28 14:20:41 | Noise detected | RMS: 0.043678
+2026-05-28 14:20:41 | Noise detected | RMS: 0.062589
+2026-05-28 14:20:42 | Noise detected | RMS: 0.041428
+2026-05-28 14:20:42 | Noise detected | RMS: 0.032926
+2026-05-28 14:20:42 | Noise detected | RMS: 0.073515
+2026-05-28 14:20:42 | Noise detected | RMS: 0.119214
+2026-05-28 14:20:42 | Noise detected | RMS: 0.095916
+2026-05-28 14:20:42 | Noise detected | RMS: 0.054419
+2026-05-28 14:20:42 | Noise detected | RMS: 0.044668
+2026-05-28 14:20:42 | Noise detected | RMS: 0.050190
+2026-05-28 14:20:42 | Noise detected | RMS: 0.097106
+2026-05-28 14:20:43 | Noise detected | RMS: 0.024771
+2026-05-28 14:20:43 | Noise detected | RMS: 0.080015
+2026-05-28 14:20:43 | Noise detected | RMS: 0.108800
+2026-05-28 14:20:43 | Noise detected | RMS: 0.082428
+2026-05-28 14:20:43 | Noise detected | RMS: 0.036439
+2026-05-28 14:20:44 | Noise detected | RMS: 0.039409
+2026-05-28 14:20:44 | Noise detected | RMS: 0.049431
+2026-05-28 14:20:44 | Noise detected | RMS: 0.032449
+2026-05-28 14:20:45 | Noise detected | RMS: 0.046475
+2026-05-28 14:20:45 | Noise detected | RMS: 0.086086
+2026-05-28 14:20:45 | Noise detected | RMS: 0.217231
+2026-05-28 14:20:45 | Noise detected | RMS: 0.116461
+2026-05-28 14:20:45 | Noise detected | RMS: 0.108644
+2026-05-28 14:20:45 | Noise detected | RMS: 0.090063
+2026-05-28 14:20:45 | Noise detected | RMS: 0.149059
+2026-05-28 14:20:46 | Noise detected | RMS: 0.159978
+2026-05-28 14:20:46 | Noise detected | RMS: 0.120266
+2026-05-28 14:20:46 | Noise detected | RMS: 0.049465
+2026-05-28 14:20:46 | Noise detected | RMS: 0.055075
+2026-05-28 14:20:46 | Noise detected | RMS: 0.051981
+2026-05-28 14:20:46 | Noise detected | RMS: 0.109829
+2026-05-28 14:20:46 | Noise detected | RMS: 0.058281
+2026-05-28 14:31:19 | Noise detected | RMS: 0.002311
+2026-05-28 14:31:37 | Noise detected | RMS: 0.015029
+2026-05-28 14:31:38 | Noise detected | RMS: 0.026258
+2026-05-28 14:31:39 | Noise detected | RMS: 0.072742
+2026-05-28 14:31:40 | Noise detected | RMS: 0.039514
+2026-05-28 14:31:41 | Noise detected | RMS: 0.005918
+2026-05-28 14:31:54 | Noise detected | RMS: 0.006634
+2026-05-28 14:31:55 | Noise detected | RMS: 0.001577
+2026-05-28 14:31:58 | Noise detected | RMS: 0.015012
+2026-05-28 14:32:01 | Noise detected | RMS: 0.132286
+2026-05-28 14:32:02 | Noise detected | RMS: 0.005411
+2026-05-28 14:32:04 | Noise detected | RMS: 0.065668
+2026-05-28 14:32:05 | Noise detected | RMS: 0.062014
+2026-05-28 14:32:06 | Noise detected | RMS: 0.011667
+2026-05-28 14:32:08 | Noise detected | RMS: 0.035730
+2026-05-28 14:32:09 | Noise detected | RMS: 0.018056
+2026-05-28 14:32:10 | Noise detected | RMS: 0.015500
+2026-05-28 14:34:25 | Noise detected | RMS: 0.003076
+2026-05-28 14:34:28 | Noise detected | RMS: 0.001249
+2026-05-28 14:34:30 | Noise detected | RMS: 0.003005
+2026-05-28 14:34:31 | Noise detected | RMS: 0.010831
+2026-05-28 14:34:32 | Noise detected | RMS: 0.075194
+2026-05-28 14:34:33 | Noise detected | RMS: 0.151612
+2026-05-28 14:34:34 | Noise detected | RMS: 0.003554
+2026-05-28 14:34:35 | Noise detected | RMS: 0.009004
+2026-05-28 14:34:36 | Noise detected | RMS: 0.001687
+2026-05-28 14:34:37 | Noise detected | RMS: 0.073476
+2026-05-28 14:34:38 | Noise detected | RMS: 0.083302
+2026-05-28 14:34:39 | Noise detected | RMS: 0.051077
+2026-05-28 14:34:40 | Noise detected | RMS: 0.193932
+2026-05-28 14:34:41 | Noise detected | RMS: 0.116259
+2026-05-28 14:36:21 | Noise detected | RMS: 0.005766
+2026-05-28 14:36:23 | Noise detected | RMS: 0.235213
+2026-05-28 14:36:24 | Noise detected | RMS: 0.001358
+2026-05-28 14:36:26 | Noise detected | RMS: 0.046074
+2026-05-28 14:37:00 | Noise detected | RMS: 0.001143
+2026-05-28 14:37:02 | Noise detected | RMS: 0.017381
+2026-05-28 14:37:03 | Noise detected | RMS: 0.073897
+2026-05-28 14:37:04 | Noise detected | RMS: 0.007857
+2026-05-28 14:37:05 | Noise detected | RMS: 0.002225
+2026-05-28 14:37:07 | Noise detected | RMS: 0.001071
+2026-05-28 14:37:08 | Noise detected | RMS: 0.001326
+2026-05-28 14:37:09 | Noise detected | RMS: 0.001510
+2026-05-28 14:37:25 | Noise detected | RMS: 0.157826
+2026-05-28 14:37:26 | Noise detected | RMS: 0.011835
+2026-05-28 14:37:27 | Noise detected | RMS: 0.092544
+2026-05-28 14:37:31 | Noise detected | RMS: 0.006584
